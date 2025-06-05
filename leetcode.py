@@ -1,7 +1,7 @@
 import requests
 import matplotlib.pyplot as plt
 
-username = "Pycode406"
+username = "user_name" #Replace with your username or any other
 
 query = {
     "query": """
